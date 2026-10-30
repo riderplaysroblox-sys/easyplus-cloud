@@ -1,0 +1,8 @@
+{
+  "name": "easyplus-cloud",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Cloud-synchronized EAS-style production overlay starter",
+  "scripts": { "start": "npx serve . -l 4173" },
+  "dependencies": { "serve": "^14.2.4" }
+}

@@ -1,0 +1,1 @@
+Optional server-side auth/API can be added here. Current Realtime state uses Supabase directly from the browser; secure it with RLS before production.
